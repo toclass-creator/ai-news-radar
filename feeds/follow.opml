@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>AI Design Custom Sources</title>
+  </head>
+  <body>
+    <outline text="中文 AI 资讯" title="中文 AI 资讯">
+      <outline type="rss" text="少数派" title="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+      <outline type="rss" text="36氪 AI" title="36氪 AI" xmlUrl="https://36kr.com/feed" htmlUrl="https://36kr.com"/>
+      <outline type="rss" text="AIbase" title="AIbase" xmlUrl="https://www.aibase.com/rss.xml" htmlUrl="https://www.aibase.com"/>
+    </outline>
+    <outline text="设计 × AI" title="设计 × AI">
+      <outline type="rss" text="UX Collective" title="UX Collective" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc"/>
+      <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com"/>
+      <outline type="rss" text="Design Milk" title="Design Milk" xmlUrl="https://design-milk.com/feed/" htmlUrl="https://design-milk.com"/>
+      <outline type="rss" text="It's Nice That" title="It's Nice That" xmlUrl="https://www.itsnicethat.com/rss" htmlUrl="https://www.itsnicethat.com"/>
+      <outline type="rss" text="Muzli Design" title="Muzli Design" xmlUrl="https://medium.com/feed/muzli-design-inspiration" htmlUrl="https://medium.muz.li"/>
+    </outline>
+    <outline text="AI 工具与产品" title="AI 工具与产品">
+      <outline type="rss" text="Product Hunt" title="Product Hunt" xmlUrl="https://www.producthunt.com/feed" htmlUrl="https://www.producthunt.com"/>
+      <outline type="rss" text="Andreessen Horowitz" title="a16z" xmlUrl="https://a16z.com/feed/" htmlUrl="https://a16z.com"/>
+    </outline>
+  </body>
+</opml>
