@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-08T13:20:00.951733Z",
+  "generated_at": "2026-05-08T15:07:17.988325Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 188,
-      "duration_ms": 6486,
+      "duration_ms": 4160,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 705,
+      "duration_ms": 634,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 35,
-      "duration_ms": 439,
+      "duration_ms": 108,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 505,
+      "duration_ms": 339,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 443,
+      "duration_ms": 588,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 526,
-      "duration_ms": 10507,
+      "item_count": 532,
+      "duration_ms": 12012,
       "error": null
     },
     {
@@ -54,15 +54,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 996,
+      "duration_ms": 1696,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3044,
-      "duration_ms": 1724,
+      "item_count": 3046,
+      "duration_ms": 1541,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 79,
-      "duration_ms": 433,
+      "duration_ms": 856,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 467,
+      "duration_ms": 512,
       "error": null
     },
     {
@@ -86,16 +86,16 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1160,
+      "duration_ms": 1408,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 5338,
-      "error": "HTTPSConnectionPool(host='newsnow.busiyi.world', port=443): Max retries exceeded with url: /api/s?id=hackernews (Caused by ResponseError('too many 500 error responses'))"
+      "ok": true,
+      "item_count": 142,
+      "duration_ms": 531,
+      "error": null
     },
     {
       "site_id": "opmlrss",
@@ -103,7 +103,7 @@
       "ok": true,
       "partial_failures": 3,
       "item_count": 162,
-      "duration_ms": 11576,
+      "duration_ms": 7881,
       "error": "3 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -113,14 +113,12 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 12,
-  "failed_sites": [
-    "newsnow"
-  ],
+  "successful_sites": 13,
+  "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5224,
-  "items_before_topic_filter": 8075,
-  "items_in_24h": 951,
+  "fetched_raw_items": 5374,
+  "items_before_topic_filter": 8259,
+  "items_in_24h": 957,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -144,7 +142,7 @@
         "effective_feed_url": "https://36kr.com/feed",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 1321,
+        "duration_ms": 1650,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -158,7 +156,7 @@
         "effective_feed_url": "https://www.aibase.com/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 5517,
+        "duration_ms": 1068,
         "error": "404 Client Error: Not Found for url: https://www.aibase.com/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -172,7 +170,7 @@
         "effective_feed_url": "https://design-milk.com/feed/",
         "ok": true,
         "item_count": 12,
-        "duration_ms": 686,
+        "duration_ms": 834,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -186,7 +184,7 @@
         "effective_feed_url": "https://www.itsnicethat.com/rss",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 357,
+        "duration_ms": 364,
         "error": "404 Client Error: Not Found for url: https://www.itsnicethat.com/rss",
         "skipped": false,
         "skip_reason": null,
@@ -200,7 +198,7 @@
         "effective_feed_url": "https://medium.com/feed/muzli-design-inspiration",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 278,
+        "duration_ms": 702,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -214,7 +212,7 @@
         "effective_feed_url": "https://www.producthunt.com/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 185,
+        "duration_ms": 229,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -228,7 +226,7 @@
         "effective_feed_url": "https://www.smashingmagazine.com/feed/",
         "ok": true,
         "item_count": 40,
-        "duration_ms": 1131,
+        "duration_ms": 779,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -242,7 +240,7 @@
         "effective_feed_url": "https://uxdesign.cc/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 611,
+        "duration_ms": 749,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -256,7 +254,7 @@
         "effective_feed_url": "https://a16z.com/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 683,
+        "duration_ms": 408,
         "error": "404 Client Error: Not Found for url: https://a16z.com/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -270,7 +268,7 @@
         "effective_feed_url": "https://sspai.com/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 807,
+        "duration_ms": 1098,
         "error": null,
         "skipped": false,
         "skip_reason": null,
