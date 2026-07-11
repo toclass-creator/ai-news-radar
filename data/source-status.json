@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-11T09:06:03.345813Z",
+  "generated_at": "2026-07-11T10:39:53.508442Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 191,
-      "duration_ms": 3471,
+      "duration_ms": 4483,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 300,
+      "duration_ms": 377,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 41,
+      "duration_ms": 44,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 396,
+      "duration_ms": 388,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 281,
+      "duration_ms": 251,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 387,
-      "duration_ms": 14117,
+      "item_count": 396,
+      "duration_ms": 15078,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 686,
+      "duration_ms": 1000,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3047,
-      "duration_ms": 1524,
+      "duration_ms": 1629,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 70,
-      "duration_ms": 788,
+      "item_count": 71,
+      "duration_ms": 4417,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 421,
+      "duration_ms": 320,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 896,
+      "duration_ms": 1281,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 129,
-      "duration_ms": 1187,
+      "duration_ms": 1267,
       "error": null
     },
     {
@@ -103,7 +103,7 @@
       "ok": true,
       "partial_failures": 3,
       "item_count": 162,
-      "duration_ms": 6093,
+      "duration_ms": 6961,
       "error": "3 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -116,9 +116,9 @@
   "successful_sites": 13,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5165,
-  "items_before_topic_filter": 6700,
-  "items_in_24h": 724,
+  "fetched_raw_items": 5175,
+  "items_before_topic_filter": 6277,
+  "items_in_24h": 668,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -142,7 +142,7 @@
         "effective_feed_url": "https://36kr.com/feed",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 1774,
+        "duration_ms": 2670,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -156,7 +156,7 @@
         "effective_feed_url": "https://www.aibase.com/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 932,
+        "duration_ms": 828,
         "error": "404 Client Error: Not Found for url: https://www.aibase.com/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -170,7 +170,7 @@
         "effective_feed_url": "https://design-milk.com/feed/",
         "ok": true,
         "item_count": 12,
-        "duration_ms": 315,
+        "duration_ms": 627,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -184,7 +184,7 @@
         "effective_feed_url": "https://www.itsnicethat.com/rss",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 243,
+        "duration_ms": 328,
         "error": "404 Client Error: Not Found for url: https://www.itsnicethat.com/rss",
         "skipped": false,
         "skip_reason": null,
@@ -198,7 +198,7 @@
         "effective_feed_url": "https://medium.com/feed/muzli-design-inspiration",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 164,
+        "duration_ms": 145,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -212,7 +212,7 @@
         "effective_feed_url": "https://www.producthunt.com/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 195,
+        "duration_ms": 98,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -226,7 +226,7 @@
         "effective_feed_url": "https://www.smashingmagazine.com/feed/",
         "ok": true,
         "item_count": 40,
-        "duration_ms": 664,
+        "duration_ms": 590,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -240,7 +240,7 @@
         "effective_feed_url": "https://uxdesign.cc/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 245,
+        "duration_ms": 204,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -254,7 +254,7 @@
         "effective_feed_url": "https://a16z.com/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 243,
+        "duration_ms": 199,
         "error": "404 Client Error: Not Found for url: https://a16z.com/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -268,7 +268,7 @@
         "effective_feed_url": "https://sspai.com/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 1318,
+        "duration_ms": 1272,
         "error": null,
         "skipped": false,
         "skip_reason": null,
