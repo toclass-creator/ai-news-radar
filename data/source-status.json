@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-11T06:56:03.739725Z",
+  "generated_at": "2026-08-11T08:06:46.981884Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 156,
-      "duration_ms": 2372,
+      "duration_ms": 2404,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 31,
+      "duration_ms": 60,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 40,
-      "duration_ms": 21,
+      "duration_ms": 72,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 452,
+      "duration_ms": 378,
       "error": null
     },
     {
@@ -38,31 +38,31 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 432,
+      "duration_ms": 372,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
-      "ok": false,
-      "item_count": 0,
-      "duration_ms": 479,
-      "error": "403 Client Error: Forbidden for url: https://iris.findtruman.io/web/info_flow"
+      "ok": true,
+      "item_count": 362,
+      "duration_ms": 13526,
+      "error": null
     },
     {
       "site_id": "bestblogs",
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1090,
+      "duration_ms": 1072,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3023,
-      "duration_ms": 1541,
+      "item_count": 3025,
+      "duration_ms": 3407,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 553,
+      "duration_ms": 457,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 5148,
+      "duration_ms": 5033,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1742,
+      "duration_ms": 1219,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 886,
+      "duration_ms": 733,
       "error": null
     },
     {
@@ -103,7 +103,7 @@
       "ok": true,
       "partial_failures": 3,
       "item_count": 132,
-      "duration_ms": 6766,
+      "duration_ms": 7682,
       "error": "3 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -113,16 +113,15 @@
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 10,
+  "successful_sites": 11,
   "failed_sites": [
     "aibreakfast",
-    "iris",
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 4727,
-  "items_before_topic_filter": 7245,
-  "items_in_24h": 711,
+  "fetched_raw_items": 5091,
+  "items_before_topic_filter": 7502,
+  "items_in_24h": 744,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -148,7 +147,7 @@
         "effective_feed_url": "https://36kr.com/feed",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 908,
+        "duration_ms": 2602,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -162,7 +161,7 @@
         "effective_feed_url": "https://www.aibase.com/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 1056,
+        "duration_ms": 869,
         "error": "404 Client Error: Not Found for url: https://www.aibase.com/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -176,7 +175,7 @@
         "effective_feed_url": "https://design-milk.com/feed/",
         "ok": true,
         "item_count": 12,
-        "duration_ms": 690,
+        "duration_ms": 772,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -190,7 +189,7 @@
         "effective_feed_url": "https://www.itsnicethat.com/rss",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 611,
+        "duration_ms": 404,
         "error": "404 Client Error: Not Found for url: https://www.itsnicethat.com/rss",
         "skipped": false,
         "skip_reason": null,
@@ -204,7 +203,7 @@
         "effective_feed_url": "https://medium.com/feed/muzli-design-inspiration",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 546,
+        "duration_ms": 225,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -218,7 +217,7 @@
         "effective_feed_url": "https://www.producthunt.com/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 222,
+        "duration_ms": 137,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -232,7 +231,7 @@
         "effective_feed_url": "https://www.smashingmagazine.com/feed/",
         "ok": true,
         "item_count": 40,
-        "duration_ms": 644,
+        "duration_ms": 740,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -246,7 +245,7 @@
         "effective_feed_url": "https://uxdesign.cc/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 648,
+        "duration_ms": 320,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -260,7 +259,7 @@
         "effective_feed_url": "https://a16z.com/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 359,
+        "duration_ms": 315,
         "error": "404 Client Error: Not Found for url: https://a16z.com/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -274,7 +273,7 @@
         "effective_feed_url": "https://sspai.com/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 1082,
+        "duration_ms": 1298,
         "error": null,
         "skipped": false,
         "skip_reason": null,
