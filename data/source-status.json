@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-21T07:37:09.798229Z",
+  "generated_at": "2026-08-21T08:32:32.763054Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 185,
-      "duration_ms": 6719,
+      "duration_ms": 3732,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 520,
+      "duration_ms": 76,
       "error": "403 Client Error: Forbidden for url: https://r.jina.ai/https://aibreakfast.beehiiv.com/"
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 35,
-      "duration_ms": 913,
+      "duration_ms": 26,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 1141,
+      "duration_ms": 635,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 1439,
+      "duration_ms": 303,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 394,
-      "duration_ms": 34666,
+      "item_count": 401,
+      "duration_ms": 15633,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1728,
+      "duration_ms": 553,
       "error": null
     },
     {
@@ -62,7 +62,7 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3044,
-      "duration_ms": 2909,
+      "duration_ms": 2018,
       "error": null
     },
     {
@@ -70,7 +70,7 @@
       "site_name": "Zeli",
       "ok": true,
       "item_count": 80,
-      "duration_ms": 991,
+      "duration_ms": 607,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 4833,
+      "duration_ms": 4930,
       "error": "HTTPSConnectionPool(host='ai.hubtoday.app', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='ai.hubtoday.app', port=443): Failed to resolve 'ai.hubtoday.app' ([Errno -2] Name or service not known)\"))"
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 2014,
+      "duration_ms": 1171,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 127,
-      "duration_ms": 1933,
+      "duration_ms": 1716,
       "error": null
     },
     {
@@ -103,7 +103,7 @@
       "ok": true,
       "partial_failures": 3,
       "item_count": 132,
-      "duration_ms": 11910,
+      "duration_ms": 6718,
       "error": "3 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -119,9 +119,9 @@
     "aihubtoday"
   ],
   "zero_item_sites": [],
-  "fetched_raw_items": 5167,
+  "fetched_raw_items": 5174,
   "items_before_topic_filter": 8352,
-  "items_in_24h": 675,
+  "items_in_24h": 677,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -147,7 +147,7 @@
         "effective_feed_url": "https://36kr.com/feed",
         "ok": true,
         "item_count": 0,
-        "duration_ms": 1821,
+        "duration_ms": 1159,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -161,7 +161,7 @@
         "effective_feed_url": "https://www.aibase.com/rss.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 1216,
+        "duration_ms": 934,
         "error": "404 Client Error: Not Found for url: https://www.aibase.com/rss.xml",
         "skipped": false,
         "skip_reason": null,
@@ -175,7 +175,7 @@
         "effective_feed_url": "https://design-milk.com/feed/",
         "ok": true,
         "item_count": 12,
-        "duration_ms": 1107,
+        "duration_ms": 695,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -189,7 +189,7 @@
         "effective_feed_url": "https://www.itsnicethat.com/rss",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 849,
+        "duration_ms": 398,
         "error": "404 Client Error: Not Found for url: https://www.itsnicethat.com/rss",
         "skipped": false,
         "skip_reason": null,
@@ -203,7 +203,7 @@
         "effective_feed_url": "https://medium.com/feed/muzli-design-inspiration",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 430,
+        "duration_ms": 192,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -217,7 +217,7 @@
         "effective_feed_url": "https://www.producthunt.com/feed",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1019,
+        "duration_ms": 127,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -231,7 +231,7 @@
         "effective_feed_url": "https://www.smashingmagazine.com/feed/",
         "ok": true,
         "item_count": 40,
-        "duration_ms": 1063,
+        "duration_ms": 770,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -245,7 +245,7 @@
         "effective_feed_url": "https://uxdesign.cc/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 534,
+        "duration_ms": 264,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -259,7 +259,7 @@
         "effective_feed_url": "https://a16z.com/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 1736,
+        "duration_ms": 905,
         "error": "404 Client Error: Not Found for url: https://a16z.com/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -273,7 +273,7 @@
         "effective_feed_url": "https://sspai.com/feed",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 2135,
+        "duration_ms": 1274,
         "error": null,
         "skipped": false,
         "skip_reason": null,
